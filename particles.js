@@ -84,7 +84,7 @@ var pJS = function(tag_id, params){
           rotateX: 600,
           rotateY: 1200
         }
-      }
+      },
       array: []
     },
     interactivity: {

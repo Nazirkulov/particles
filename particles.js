@@ -85,6 +85,7 @@ var pJS = function(tag_id, params){
           rotateY: 1200
         }
       }
+      array: []
     },
     interactivity: {
       detect_on: 'canvas',
